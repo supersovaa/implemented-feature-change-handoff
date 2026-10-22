@@ -13,9 +13,9 @@ This skill owns the temporary handoff between changed requirements/design and th
 
 Use `grill-into-pr` for the requirements/design decisions and documentation-only PR when that workflow applies.
 
-Treat settled requirements and revised design as the target. Inspect existing code and tests to understand current behavior, not to justify preserving a feature, mechanism, or guarantee removed from the target.
+Treat settled requirements and revised design as the target. Existing code and tests are evidence of current behavior when consulted, rather than authority for preserving a feature, mechanism, or guarantee removed from the target.
 
-When the change leaves implementation work that still needs a new plan, put a concise **`変更未計画`** marker in the relevant surviving requirements/design canon. Identify the intended change, not a speculative inventory of affected code or tests.
+When the change leaves implementation work that still needs a new plan, put a concise **`変更未計画`** marker in the relevant surviving requirements/design canon. Identify the intended change; detailed code and test impact analysis belongs to implementation planning.
 
 For example: `復旧機能の削除：変更未計画`.
 
