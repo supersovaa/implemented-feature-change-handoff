@@ -4,7 +4,7 @@ A lightweight skill that keeps **changes to already implemented features** conne
 
 Use it at either existing work entry point:
 
-- **Requirements/design revision:** record an unplanned implementation change in the surviving requirements/design canon.
+- **Requirements/design revision:** when a change requires new implementation planning, record a temporary marker in the surviving requirements/design canon.
 - **Implementation planning:** transfer the requested change to new implementation and test plans, then clear its temporary marker once the handoff is complete.
 
 There is **one** skill definition, [`SKILL.md`](./SKILL.md), shared by both entry points. The change is allowed to exist in the authoritative requirements/design before the implementation has caught up.
