@@ -1,13 +1,11 @@
 ---
 name: implemented-feature-change-handoff
-description: Preserve the handoff from requirements or design changes to already implemented features into new implementation and test planning, at both change-design and implementation-planning entry points.
+description: When an implemented feature’s requirements or design change, carry outstanding work from change design into implementation and test planning.
 ---
 
 # Implemented Feature Change Handoff
 
-Use this skill when revising requirements or design for an already implemented feature, or when planning implementation of such a revision.
-
-This skill owns the temporary handoff between changed requirements/design and the work needed to bring existing implementation into agreement. Requirements/design decisions, implementation planning, and test planning remain with their existing skills.
+Track the implementation and test planning still needed after an implemented feature’s requirements or design change. Use the appropriate entry point below when revising the design or planning its implementation. The existing skills retain ownership of each phase.
 
 ## When revising requirements or design
 
