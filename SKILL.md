@@ -1,11 +1,11 @@
 ---
 name: implemented-feature-change-handoff
-description: When an implemented feature’s requirements or design change, carry outstanding work from change design into implementation and test planning.
+description: Use when revising feature requirements or design, or when planning implementation of a feature revision. Track work owed by an existing implementation.
 ---
 
 # Implemented Feature Change Handoff
 
-Track the implementation and test planning still needed after an implemented feature’s requirements or design change. Use the appropriate entry point below when revising the design or planning its implementation. The existing skills retain ownership of each phase.
+When the feature is already implemented and the revision leaves implementation or test planning outstanding, use the entry point below for the current phase. Its existing owner retains responsibility for the requirements, design, or plan.
 
 ## When revising requirements or design
 
